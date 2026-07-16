@@ -5,13 +5,10 @@
 │  Engineer, passionate about highly available backend            │
 │  distributed systems and cloud based infrastructure             │
 │  and automation.                                                │
-│                                                                 │
-│  Backend of choice: Go — ships as a single binary, builds       │
-│  fast, and feels at home in cloud-native / CNCF stacks.         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-**Software engineer** open to **backend**, **full-stack (MERN)**, and **DevOps / platform** roles. Most of the services here are written in **Go**.
+**Software engineer** open to **backend**, **full-stack (MERN)**, and **DevOps / platform** roles. Work here spans APIs and services, web and mobile apps, and automation / cloud-native tooling.
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
